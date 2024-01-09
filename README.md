@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="lift">Hi 👋, I'm Chature Nagesh</h1>
 <h3 align="lift">A passionate to become a Data Scientist</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/f2wDNjBt4uaSCsBF9">
+<img align="right" alt="Coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 
 - 🌱 I’m currently learning **machine Learning and Deep Learning**
 
