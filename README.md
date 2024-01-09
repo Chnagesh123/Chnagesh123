@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Chature Nagesh</h1>
-<h3 align="center">A passionate to become a Data Scientist</h3>
+<h1 align="lift">Hi 👋, I'm Chature Nagesh</h1>
+<h3 align="lift">A passionate to become a Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/f2wDNjBt4uaSCsBF9">
 
 - 🌱 I’m currently learning **machine Learning and Deep Learning**
